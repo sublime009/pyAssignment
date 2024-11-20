@@ -1,0 +1,29 @@
+print('welcome to LTDPYTHON STORE')
+purchase_amount = float(input('Enter purchase amount:$'))
+print(f'Original purchase amount: {purchase_amount}')
+
+if purchase_amount < 100:   
+    discount = 0
+    print('No discount')
+    elif purchase_amount >= 100 and purchase <= 500:
+    elif purchase_amount == 100 or purchase_amount< 500:
+       discount = 10/100 * purchase_amount
+    elife purchase_amount > 500:
+    discount = 20/100 * purchase_amount
+
+discounted_amount = purchase_amount
+if discounted_amount < 200:
+tax = discounted_amount * 0.05
+else:
+
+tax = discounted_amount
+
+
+
+
+
+
+
+
+final_amount = discounted_amount + tax
+print('final amount: {final_amount:.2f}')
